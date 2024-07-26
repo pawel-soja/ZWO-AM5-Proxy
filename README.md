@@ -23,4 +23,7 @@ make -j4
 ```
 
 ### Example of a running program
+
+![Alt text](img/zwo-app.png "ZWO APP")
+
 ![Alt text](img/example.png "example")
