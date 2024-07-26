@@ -1,0 +1,41 @@
+Found AM5 "x.x.x.x"
+
+...
+
+client -> target ":FTHG#"
+client <- target "0"
+
+...
+
+client -> target ":GVD#"
+client <- target "May 15 2024#"
+
+client -> target ":GVT#"
+client <- target "17:09:05#"
+
+client -> target ":GV#"
+client <- target "1.5.2#"
+
+client -> target ":GVP#"
+client <- target "AM5#"
+
+client -> target ":GVE#"
+client <- target "2.6#"
+
+client -> target ":GT#"
+client <- target "0#"
+
+client -> target ":GAT#"
+client <- target "0#"
+
+...
+
+client -> target ":GRl#"
+client <- target "1440#"
+
+client -> target ":GBu#"
+client <- target "1#"
+
+client -> target ":hC#"
+client -> target ":SOa#" <--- home position calibration !!!
+client <- target "1"
